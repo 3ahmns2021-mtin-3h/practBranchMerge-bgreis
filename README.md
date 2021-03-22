@@ -9,8 +9,11 @@ Introduction/Project summary
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
 
-### Visuals: 
-Screenshots (concept and experience), Video
+### Visuals:
+<div>
+    <img src="" width="400">
+    <img src="" width="400">
+</div>
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
